@@ -1,1 +1,56 @@
+Website tin tức gồm các chức năng sau:
+Trang chủ
+    gồm các tiên mới nhất của tất cả các danh mục
 
+Category
+    multi lever ( thời sự 
+                      trong nước 
+                      quốc tế
+                      ........
+                )
+Danh mục bài viết
+    tiêu đề
+    mô tả
+    nội dung
+    hình ảnh
+    link
+    tác giả
+    tag
+    danh mục -> home -> thời sự -> trong nước -> tên bài viết.......
+Dang muc tag
+
+Danh mục tác giả
+    danh sách tác giả
+    thông tin tác giả
+ 
+Danh mục liên quan
+    liên hệ 
+    chính sách bảo mật
+    thông báo
+
+Đăng nhập, đăng ký, phân quyền
+curd bài viết
+curd danh muc
+curd tag
+curd thông báo
+curd các trang khác (chính sách, liên hệ....)
+curd quyền
+curd người dùng
+
+-------------------------------------------------------------------------------
+
+dựng theo mô hình mvc 
+              sử dụng famwork tùy chọn
+              code html chuẩn seo
+              caode giao diện reponsiver 
+              
+-------------------------------------------------------------------------------
+
+xây dựng db ( 1 ngày )
+xây dựng sơ bộ giao diện chức năng ( nửa ngày )
+xây dựng giao diện html ( 3 ngày )
+test giao diện ( nửa ngày )
+code db (2 ngày) - bao gồm các câu truy vấn liên quan
+xây dựng backend ( 3 ngày )
+test backend (......)
+-------------------------------------------------------------------------------
